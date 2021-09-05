@@ -31,7 +31,7 @@
 
 
 ### Heroku
-<p><a href="https://tx.me/googleimgbot?start=playastream_heroku"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://github.com/abubeegaran"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 
 ## any GNU/Linux system [**RECOMMENDED**]
